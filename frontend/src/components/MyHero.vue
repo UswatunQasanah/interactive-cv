@@ -10,10 +10,11 @@ Code snippet
           <h1
             class="text-5xl font-bold text-white mb-4 animate-slide-in-left"
             style="animation-delay: 200ms"
+            data-aos="fade-up"
           >
             Halo, Saya <span class="name">Uswatun Hasanah</span>
           </h1>
-          <p class="text-xl text-white mb-8 animate-slide-in-left" style="animation-delay: 400ms">
+          <p class="text-xl text-white mb-8 animate-slide-in-left" style="animation-delay: 400ms" data-aos="fade-up"> 
             Mahasiswa Teknik Informatika yang bersemangat dalam pengembangan web dan desain
             antarmuka.
           </p>
@@ -33,6 +34,7 @@ Code snippet
           src="/images/Catpp.jpg"
           alt="Foto Profil"
           class="w-80 h-80 rounded-full object-cover shadow-lg"
+          data-aos="fade-left"
         />
       </div>
     </div>
